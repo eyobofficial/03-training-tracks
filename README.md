@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Eyob Tariku
 
-Track Name: 
+Track Name: DevOps 
 
-Track Description: 
+Track Description: Who knows! 
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
